@@ -61,5 +61,4 @@ function revealAllMines() {
 
 resetBtn.addEventListener("click", initGame);
 
-// Initialize on page load
 initGame();
